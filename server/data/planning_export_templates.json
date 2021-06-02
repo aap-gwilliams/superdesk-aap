@@ -18,5 +18,27 @@
         },
         "label" : "Courts",
         "download" : true
+    },
+    {
+        "_id" : "planning_olympics_outlook",
+        "name" : "olympics_outlook",
+        "type" : "planning",
+        "data" : {
+            "slugline" : "Olympics Outlook",
+            "body_html_template" : "olympics_outlook_planning_template.html"
+        },
+        "label" : "Olympics Outlook",
+        "download" : false
+    },
+    {
+        "_id" : "aussies_in_action",
+        "name" : "aussies_in_action",
+        "type" : "planning",
+        "data" : {
+            "slugline" : "Aussies in Action",
+            "body_html_template" : "aussies_in_action_planning_template.html"
+        },
+        "label" : "Aussies in Action",
+        "download" : false
     }
 ]
